@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDMS", "SimpleDMS\SimpleDMS.csproj", "{C384E877-12A2-4264-98DE-E156B269C54A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSEntities", "DMSEntities\DMSEntities.csproj", "{4598E5F7-039E-4D1A-9E00-9D213EDF0AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C384E877-12A2-4264-98DE-E156B269C54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C384E877-12A2-4264-98DE-E156B269C54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C384E877-12A2-4264-98DE-E156B269C54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C384E877-12A2-4264-98DE-E156B269C54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4598E5F7-039E-4D1A-9E00-9D213EDF0AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4598E5F7-039E-4D1A-9E00-9D213EDF0AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4598E5F7-039E-4D1A-9E00-9D213EDF0AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4598E5F7-039E-4D1A-9E00-9D213EDF0AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE03404-D959-40BB-8354-3FA6D305B06F}
+	EndGlobalSection
+EndGlobal
